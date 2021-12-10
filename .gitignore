@@ -1,0 +1,5 @@
+jira-openapi-client/
+!jira-openapi-client/go.mod
+!jira-openapi-client/go.sum
+!jira-openapi-client/swagger.json
+!jira-openapi-client/setup.py
