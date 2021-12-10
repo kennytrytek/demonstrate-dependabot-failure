@@ -11,3 +11,13 @@ updates:
   open-pull-requests-limit: 3
   reviewers:
   - kennytrytek
+- package-ecosystem: gomod
+  directory: "/a-go-project"
+  schedule:
+    interval: weekly
+    day: sunday
+    time: "20:00"
+    timezone: America/Chicago
+  open-pull-requests-limit: 3
+  reviewers:
+  - kennytrytek
