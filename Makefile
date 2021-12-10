@@ -26,7 +26,7 @@ jira-openapi-client/README.md: jira-openapi-client/swagger.json
 	  -i /local/swagger.json \
 	  -g go \
 	  -o /local \
-	  --additional-properties=packageName=cid,isGoSubmodule=true,enumClassPrefix=true,structPrefix=true
+	  --additional-properties=packageName=a-go-project,isGoSubmodule=true,enumClassPrefix=true,structPrefix=true
 
 
 ${GOPATH}/bin/gotestsum: go-apps/go.sum
