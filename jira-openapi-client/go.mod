@@ -1,4 +1,4 @@
-module github.com/kennytrytek/demonstrate-dependabot-failure/a-go-project
+module github.com/kennytrytek/demonstrate-dependabot-failure/jira-openapi-client
 
 go 1.14
 
