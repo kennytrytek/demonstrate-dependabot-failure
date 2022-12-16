@@ -13,7 +13,7 @@ updates:
   - kennytrytek
 - package-ecosystem: pip
   insecure-external-code-execution: allow
-  directory: "/a-python-project/requirements_client.txt"
+  directory: "/a-python-project/"
   schedule:
     interval: weekly
     day: sunday
